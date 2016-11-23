@@ -1,0 +1,597 @@
+
+@media screen and (min-width: 1200px){
+    
+    .nav_h{
+    margin-top: 10px;
+    margin-bottom: 45px;
+}
+
+
+
+.nav_h h2{
+    color: #00A652;
+    
+}
+
+
+.nav_h ul{
+    margin-top: 
+    
+}
+
+
+
+.nav_nav{
+    
+    display: block;
+    padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #00A652;
+  border: 1px solid #00A652;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+       -o-transition: border .2s ease-in-out;
+          transition: border .2s ease-in-out;
+}
+
+.nav_nav a{
+    color: white;
+    font-size: 18px;
+    
+}
+
+.nav_nav ul{
+    margin: 10px;
+    
+}
+
+.nav_nav ul li{
+    padding-left: 70px;
+    padding-right: 70px;
+    border-right: 1px solid #fff;
+    
+}
+    
+    
+.nav_nav ul li:last-child{
+    border-right: none;
+}
+
+.nav_nav a:hover{
+    color: #1D1F21;
+}
+
+
+
+.nav_h li{
+    display: inline;
+    
+}
+
+.nav_h{
+    
+}
+
+.hav_h h2{
+    color : #00A652;
+}
+  
+     .image1 {
+    max-width:65%;
+    max-height:65%;
+        
+    }
+    .image-exp{
+        max-width: 100%;
+    } 
+    
+         /* button */
+      
+.form_button .btn{
+    padding: 9px 0px;
+    
+}
+    /* button End */
+    
+
+    
+}
+
+
+
+@media screen and (min-width: 992px) and (max-width: 1200px){
+
+/* Menu */
+
+    .nav_h{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+
+
+.nav_h h2{
+    color: #00A652;
+    
+}
+
+
+.nav_h ul{
+    margin-top: 
+    
+}
+
+
+
+.nav_nav{
+    
+    display: block;
+    padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #00A652;
+  border: 1px solid #00A652;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+       -o-transition: border .2s ease-in-out;
+          transition: border .2s ease-in-out;
+}
+
+.nav_nav a{
+    color: white;
+    font-size: 18px;
+    
+}
+
+.nav_nav ul{
+    margin: 10px;
+    
+}
+
+.nav_nav ul li{
+    padding-left: 50px;
+    padding-right: 50px;
+    border-right: 1px solid #fff;
+    
+}
+
+.nav_nav ul li:last-child{
+    border-right: none;
+}
+
+.nav_nav a:hover{
+    color: #1D1F21;
+}
+
+
+
+.nav_h li{
+    display: inline;
+    
+}
+
+.nav_h{
+    
+}
+
+.hav_h h2{
+    color : #00A652;
+}
+    
+    
+    .image1 {
+    max-width:65%;
+    max-height:65%;
+        
+    }
+
+     /* button */
+      
+.form_button .btn{
+    padding: 9px 0px;
+    
+}
+    /* button End */
+    
+    .image-exp{
+        max-width: 115%;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 700px) and (max-width: 991px){
+
+    
+             /* button */
+      
+.form_button .btn{
+    padding: 9px 0px;
+    
+}
+    /* button End */
+    
+    
+    
+   .logo{
+        text-align: center;
+        
+    }
+    
+  /* Menu */
+
+    .nav_h{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+
+
+.nav_h h2{
+    color: #00A652;
+    
+}
+
+
+.nav_h ul{
+    margin-top: 
+    
+}
+
+
+
+.nav_nav{
+    
+    display: block;
+    padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #00A652;
+  border: 1px solid #00A652;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+       -o-transition: border .2s ease-in-out;
+          transition: border .2s ease-in-out;
+}
+
+.nav_nav a{
+    color: white;
+    font-size: 18px;
+    
+}
+
+.nav_nav ul{
+    margin: 10px;
+    
+}
+    
+    .nav_nav ul li{
+    padding-left: 25px;
+    padding-right: 25px;
+    border-right: 1px solid #fff;
+    
+}
+
+
+.nav_nav ul li:last-child{
+    border-right: none;
+}
+
+.nav_nav a:hover{
+    color: #1D1F21;
+}
+
+
+
+.nav_h li{
+    display: inline;
+    
+}
+
+.nav_h{
+    
+}
+
+.hav_h h2{
+    color : #00A652;
+}
+
+
+    .image1 {
+    max-width:50%;
+    max-height:50%;
+        
+    }
+    
+    .image-exp{
+        max-width: 80%;
+    }
+    
+
+    
+
+}
+  
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 500px) and (max-width: 700px){
+
+    .logo{
+        text-align: center;
+        
+    }
+
+    
+.nav_h{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+
+
+.nav_h h2{
+    color: #00A652;
+    
+}
+
+
+.nav_h ul{
+    margin-top: 
+    
+}
+
+
+
+.nav_nav{
+    
+    display: block;
+    padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #00A652;
+  border: 1px solid #00A652;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+       -o-transition: border .2s ease-in-out;
+          transition: border .2s ease-in-out;
+}
+
+
+.nav_nav a{
+    color: white;
+    font-size: 18px;
+    
+}
+
+.nav_nav ul{
+    margin: 10px;
+    
+}
+
+.nav_nav ul li{
+    text-align: center;
+    padding:10px 0px;
+    
+    
+    
+}
+    
+    .nav_nav li:hover {
+        
+    background-color: #fff;
+        color: #00A652;
+    
+    }  
+  .nav_nav ul li:hover a{
+       color: #00A652; 
+        
+    }  
+
+
+.nav_nav a:hover{
+    color: #00A652;
+    
+}
+
+
+
+
+
+.nav_h{
+    
+}
+
+.hav_h h2{
+    color : #00A652;
+}
+
+
+.image1 {
+    max-width:50%;
+    max-height:50%;
+        
+    }
+.image-exp{
+        max-width: 60%;
+    }
+    
+    
+
+     /* button */
+      
+.form_button .btn{
+    padding: 9px 0px;
+    
+}
+    /* button End */
+    
+    
+}
+
+    
+    
+    
+    
+    
+    
+
+@media screen and (max-width: 500px){
+    
+    
+    .logo{
+        text-align: center;
+        
+    }
+    
+    .nav_h{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+
+
+.nav_h h2{
+    color: #00A652;
+    
+}
+
+
+.nav_h ul{
+    margin-top: 
+    
+}
+
+
+
+.nav_nav{
+    
+    display: block;
+    padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #00A652;
+  border: 1px solid #00A652;
+  border-radius: 4px;
+  -webkit-transition: border .2s ease-in-out;
+       -o-transition: border .2s ease-in-out;
+          transition: border .2s ease-in-out;
+}
+
+
+.nav_nav a{
+    color: white;
+    font-size: 18px;
+    
+}
+
+.nav_nav ul{
+    margin: 10px;
+    
+}
+
+.nav_nav ul li{
+    text-align: center;
+    padding:10px 0px;
+    
+    
+    
+}
+    
+.nav_nav ul li:hover {
+        
+    background-color: #fff;
+    
+    
+    }  
+
+    .nav_nav ul li:hover a{
+       color: #00A652; 
+        
+    }
+    
+
+    
+
+.nav_nav a:hover{
+    color: #00A652;
+    
+}
+
+
+
+
+
+.nav_h{
+    
+}
+
+.hav_h h2{
+    color : #00A652;
+}
+    
+    
+    .image1 {
+    max-width:35%;
+   max-height:35%;
+        
+    }
+    
+    .image-exp{
+        max-width: 50%;
+    }
+    
+    
+    
+    
+    /* button */
+    
+   
+.form_button .btn{
+    padding: 9px 0px;
+    
+}
+
+
+    
+    
+    
+    
+    
+    
+    
+    /* button End */
+    
+}
+
+
+
+
+
